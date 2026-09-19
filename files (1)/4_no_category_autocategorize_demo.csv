@@ -1,0 +1,11 @@
+date,amount,transaction_type,merchant,description,payment_method
+2026-09-01,420,Expense,SWIGGY,Lunch order,UPI
+2026-09-02,65000,Income,COMPANY PAYROLL,Monthly salary,Bank Transfer
+2026-09-03,180,Expense,UBER,Cab ride,Cash
+2026-09-04,999,Expense,NETFLIX,Subscription,Card
+2026-09-05,3200,Expense,AMAZON,Shopping order,Card
+2026-09-06,899,Expense,MOBILE RECHARGE,Prepaid recharge,UPI
+2026-09-07,1500,Expense,APOLLO PHARMACY,Medicines,Card
+2026-09-08,6000,Expense,COLLEGE FEE,Semester fee,Bank Transfer
+2026-09-09,2000,Expense,ELECTRICITY BILL,Monthly bill,UPI
+2026-09-10,350,Expense,ZOMATO,Dinner order,UPI

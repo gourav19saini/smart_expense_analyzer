@@ -1,0 +1,21 @@
+date,amount,transaction_type,category,merchant,description,payment_method
+2026-08-15,65000,Income,Salary,COMPANY PAYROLL,Monthly salary,Bank Transfer
+2026-08-16,350,Expense,Food,SWIGGY,Lunch order,UPI
+2026-08-17,420,Expense,Food,ZOMATO,Dinner order,UPI
+2026-08-18,180,Expense,Transport,UBER,Cab ride,Cash
+2026-08-19,220,Expense,Transport,OLA CABS,Cab ride,Cash
+2026-08-20,999,Expense,Entertainment,NETFLIX,Subscription,Card
+2026-08-21,300,Expense,Food,CAFE COFFEE DAY,Coffee,UPI
+2026-08-22,450,Expense,Food,SWIGGY,Lunch order,UPI
+2026-08-23,199,Expense,Entertainment,SPOTIFY,Subscription,Card
+2026-08-24,600,Expense,Transport,PETROL PUMP,Fuel,Cash
+2026-08-25,380,Expense,Food,DOMINOS PIZZA,Dinner order,UPI
+2026-08-26,250,Expense,Transport,METRO CARD RECHARGE,Metro top-up,UPI
+2026-08-27,500,Expense,Food,ZOMATO,Lunch order,UPI
+2026-08-28,320,Expense,Food,SWIGGY,Dinner order,UPI
+2026-08-29,150,Expense,Transport,UBER,Cab ride,Cash
+2026-08-30,22500,Expense,Shopping,AMAZON,Emergency laptop replacement,Card
+2026-08-31,410,Expense,Food,ZOMATO,Lunch order,UPI
+2026-09-01,290,Expense,Transport,OLA CABS,Cab ride,Cash
+2026-09-02,470,Expense,Food,SWIGGY,Dinner order,UPI
+2026-09-03,350,Expense,Food,CAFE COFFEE DAY,Coffee,UPI

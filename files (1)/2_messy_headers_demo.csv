@@ -1,0 +1,11 @@
+Txn Date,Amt,Type,Payee,Narration,Payment Mode
+01/09/2026,540,Debit,SWIGGY,Lunch order,UPI
+02/09/2026,65000,Credit,COMPANY PAYROLL,Salary credit,NEFT
+03/09/2026,199,Debit,NETFLIX,Subscription renewal,Card
+04/09/2026,320,Debit,UBER,Cab to airport,Cash
+05/09/2026,4500,Debit,AMAZON,Electronics purchase,Card
+06/09/2026,999,Debit,MOBILE RECHARGE,Prepaid recharge,UPI
+07/09/2026,2200,Debit,ELECTRICITY BILL,Monthly bill,IMPS
+08/09/2026,150,Debit,CAFE COFFEE DAY,Coffee,UPI
+09/09/2026,3800,Debit,MYNTRA,Clothing,Card
+10/09/2026,600,Debit,APOLLO PHARMACY,Medicines,Cash

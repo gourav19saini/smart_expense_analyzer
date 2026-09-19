@@ -1,0 +1,10 @@
+date,amount,transaction_type,category,merchant,description,payment_method
+2026-09-01,450,Expense,Food,SWIGGY,Lunch order,UPI
+2026-09-01,450,Expense,Food,SWIGGY,Lunch order,UPI
+not-a-date,300,Expense,Transport,UBER,Cab ride,Cash
+2026-09-03,,Expense,Shopping,AMAZON,Missing amount,Card
+2026-09-04,-500,Expense,Bills,ELECTRICITY BILL,Negative amount,UPI
+2026-09-05,999,Expense,Entertainment,NETFLIX,Subscription,Card
+2026-09-06,abc,Expense,Food,ZOMATO,Non-numeric amount,UPI
+2026-09-07,1200,,Bills,MOBILE RECHARGE,Missing transaction type,UPI
+2026-09-08,65000,Income,Salary,COMPANY PAYROLL,Monthly salary,Bank Transfer

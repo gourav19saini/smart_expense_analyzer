@@ -1,0 +1,21 @@
+date,amount,transaction_type,category,merchant,description,payment_method
+2026-09-01,450,Expense,Food,SWIGGY,Lunch order,UPI
+2026-09-01,65000,Income,Salary,COMPANY PAYROLL,Monthly salary credit,Bank Transfer
+2026-09-02,120,Expense,Transport,UBER,Cab ride to office,Cash
+2026-09-02,999,Expense,Entertainment,NETFLIX,Monthly subscription,Card
+2026-09-03,2400,Expense,Shopping,AMAZON,Headphones,Card
+2026-09-04,899,Expense,Bills,MOBILE RECHARGE,Prepaid recharge,UPI
+2026-09-05,350,Expense,Food,ZOMATO,Dinner order,UPI
+2026-09-05,199,Expense,Entertainment,SPOTIFY,Music subscription,Card
+2026-09-06,1800,Expense,Bills,ELECTRICITY BILL,Monthly electricity,Bank Transfer
+2026-09-07,600,Expense,Transport,PETROL PUMP,Fuel top-up,Cash
+2026-09-08,3200,Expense,Shopping,FLIPKART,Shoes,UPI
+2026-09-09,250,Expense,Food,CAFE COFFEE DAY,Coffee with friend,UPI
+2026-09-10,1500,Expense,Healthcare,APOLLO PHARMACY,Monthly medicines,Card
+2026-09-11,5000,Expense,Education,UDEMY COURSE,Online course,Card
+2026-09-12,80,Expense,Transport,METRO CARD RECHARGE,Metro top-up,UPI
+2026-09-13,700,Expense,Food,DOMINOS PIZZA,Weekend order,UPI
+2026-09-14,12000,Expense,Bills,RENT PAYMENT,Monthly rent,Bank Transfer
+2026-09-15,450,Expense,Entertainment,BOOKMYSHOW,Movie tickets,Card
+2026-09-16,3000,Income,Other,FREELANCE PAYMENT,Side project payment,Bank Transfer
+2026-09-17,220,Expense,Food,BLINKIT,Grocery top-up,UPI
